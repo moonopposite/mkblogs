@@ -1,8 +1,8 @@
-site_name: Mkdocs Material Example
-site_description: An Experimental Package Management Solution for Python
-repo_name: vra/mkdocs-material-example
-repo_url: https://github.com/vra/mkdocs-material-example
-copyright: Copyright &copy; 2023 Yunfeng Wang
+site_name: Mkdocs Material Blog
+site_description: 只在其中颠倒颠
+repo_name: moonopposite/mkblogs
+repo_url: https://github.com/moonopposite/mkblogs
+copyright: Copyright &copy; 2023 Tim Liu
 
 
 nav:
