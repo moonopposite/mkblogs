@@ -1,1 +1,1 @@
-# mkdocs-example
+# mkdocs blog
